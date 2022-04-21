@@ -1,0 +1,29 @@
+:root{
+    --primary:#243746;
+    --secondary: #1C1F2A;
+    --ligth : #ffffff;
+    --grey: #efefef;
+    --alert:  indianred;
+    --verde1: #6ABF4B;
+    --verde2: #009845;
+    --calido1: #E1251B;
+    --calido2: #FF7F30;
+    --frio1: #AE95DA;
+    --frio2: #60269E;
+    --topografia: #243746;
+    --fondo: #1C1F2A;
+
+}
+
+.main-slider .image-layer {
+    opacity: 0.3;
+    background-color: var(--fondo) !important;
+}
+
+.main-slider .swiper-slide {
+    background-color: var(--fondo) !important;
+}
+
+.real-world__counter-content {
+    width: 200px !important;
+}
