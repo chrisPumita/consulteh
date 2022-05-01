@@ -27,3 +27,7 @@
 .real-world__counter-content {
     width: 200px !important;
 }
+
+.main-menu .main-menu__list li ul{
+    min-width: 300px !important;
+}
