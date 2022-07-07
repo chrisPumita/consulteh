@@ -3,32 +3,23 @@
         header("Location:services.php");
 
     $servicio = $_GET['service'];
+
     switch ($servicio){
         case md5(1):
-                include("./services/1.php");
+            $service_numer = 1;
             break;
         case md5(2):
-            include("./services/2.php");
+            $service_numer = 2;
             break;
         case md5(3):
-            include("./services/3.php");
-            break;
-        case md5(4):
-            include("./services/4.php");
-            break;
-        case md5(5):
-            include("./services/5.php");
-            break;
-        case md5(6):
-            include("./services/6.php");
-            break;
-        case md5(7):
-            include("./services/7.php");
+            $service_numer = 3;
             break;
         default:
             header("Location:services.php");
             break;
     }
+
+    include("./services/template_services.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -63,7 +54,7 @@
     <section class="service-details" id="servicio">
         <div class="container">
             <div class="row">
-                <?php echo $container; ?>
+                <?php  echo $container; ?>
             </div>
         </div>
     </section>

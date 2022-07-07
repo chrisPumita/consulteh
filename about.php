@@ -31,7 +31,6 @@
     </section>
     <!--Page Header End-->
 
-
     <!--About One Start-->
     <section class="get-to-know">
         <div class="container">
@@ -139,6 +138,121 @@
         </div>
     </section>
     <!--CTA One End-->
+
+    <!--We Improve Start-->
+    <section class="we-improve clearfix">
+        <div class="we-improve-bg" style="background-image: url(assets/images/backgrounds/we-improve-bg.jpg)"></div>
+        <div class="container">
+            <div class="we-improve__inner">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="testimonial-two__slider">
+                            <div class="swiper-container" id="testimonials-two__thumb">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-two__img-holder">
+                                            <div class="section-title text-center">
+                                                <span class="section-title__tagline">Nostros</span>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.swiper-slide -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-two__img-holder">
+                                            <div class="section-title text-center">
+                                                <span class="section-title__tagline">Misión</span>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.swiper-slide -->
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-two__img-holder">
+                                            <div class="section-title text-center">
+                                                <span class="section-title__tagline">Visión</span>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.swiper-slide -->
+                                </div><!-- /.swiper-wrapper -->
+                            </div>
+
+                            <div class="swiper-container" id="testimonials-two__carousel">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="container">
+                                            <div class="we-improve__inner">
+                                                <div class="section-title text-left">
+                                                    <span class="section-title__tagline">Nosotros</span>
+                                                    <h4 class="testimonial-two__text">CONSULTORÍA DE NEGOCIOS</h4>
+                                                </div>
+                                                <p class="we-improve__text">
+                                                    Especialistas en materia legal y administrativo con el objetivo de
+                                                    asesorar a sus clientes para prevenir y solucionar conflictos laborales,
+                                                    ayudarlo a lograr sus objetivos particulares, sumar a la rentabilidad
+                                                    de sus proyectos, así como dar correcto cumplimiento legal a sus
+                                                    obligaciones labores.
+                                                </p>
+                                                <div class="we-improve__funded">
+                                                    <div class="we-improve__funded-img">
+                                                        <img src="assets/images/resources/we-improve-funded-img.jpg" alt="">
+                                                    </div>
+                                                    <p class="we-improve__funded-content">Siempre desde una perspectiva
+                                                        <span>profesional, experimentada, práctica e integral</span></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.swiper-slide -->
+                                    <div class="swiper-slide">
+                                        <div class="container">
+                                            <div class="we-improve__inner">
+                                                <div class="section-title text-left">
+                                                    <span class="section-title__tagline">Misión</span>
+                                                </div>
+                                                <p class="we-improve__text">
+                                                    Proveer el servicio especializado en puntos claves del asesoramiento
+                                                    jurídico en materia laboral y amparo, así como la consultoría de recursos
+                                                    humanos y sindicatos, desempeñando una calidad de excelencia en nuestro trabajo.
+                                                </p>
+                                                <div class="we-improve__funded">
+                                                    <div class="we-improve__funded-img">
+                                                        <img src="assets/images/resources/we-improve-funded-img.jpg" alt="">
+                                                    </div>
+                                                    <p class="we-improve__funded-content">
+                                                        Otorgando en cada asesoría una
+                                                        correcta atención y orientación al cliente
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.swiper-slide -->
+                                    <div class="swiper-slide">
+                                        <div class="container">
+                                            <div class="we-improve__inner">
+                                                <div class="section-title text-left">
+                                                    <span class="section-title__tagline">Visión</span>
+                                                </div>
+                                                <p class="we-improve__text">
+                                                    Aspirar siempre a la excelencia en los servicios al cliente, con el
+                                                    propósito de generar bienestar y soluciones adecuadas a través de asesoramiento correcto.
+                                                </p>
+                                                <div class="we-improve__funded">
+                                                    <div class="we-improve__funded-img">
+                                                        <img src="assets/images/resources/we-improve-funded-img.jpg" alt="">
+                                                    </div>
+                                                    <p class="we-improve__funded-content">
+                                                        Apostamos por la innovación para resolver los desafíos actuales y futuros.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div><!-- /.swiper-slide -->
+                                </div><!-- /.swiper-wrapper -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--We Improve End-->
+
     <!--Team Two Start-->
     <section class="team-two">
         <div class="container">

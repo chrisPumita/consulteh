@@ -31,3 +31,18 @@
 .main-menu .main-menu__list li ul{
     min-width: 300px !important;
 }
+
+.case-one__img:before {
+    background-color: #FFFFFF !important;
+    color: #000 !important
+}
+
+.case-one__text:before{
+    color: #0b0b0b !important;
+}
+
+.we-improve__funded-content span {
+    font-size: 20px !important;
+    font-weight: 700;
+    color: var(--verde2) !important;
+}

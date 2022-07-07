@@ -1,51 +1,121 @@
-<?php
-
-$container = '<div class="col-xl-4 col-lg-5">
-                    <div class="service-details__sidebar">
-                        <div class="service-details__sidebar-service">
-                            <ul class="service-details__sidebar-service-list list-unstyled">
-                                <li><a href="./service.php?service=c4ca4238a0b923820dcc509a6f75849b">Asesoría Jurídica Sindical <span class="icon-right-arrow"></span></a></li>
-                                <li class="current"><a href="./service.php?service=c81e728d9d4c2f636f067f89cc14862c">Asesoría en Juicios por Despido <span class="icon-right-arrow"></span></a></li>
-                                <li><a href="./service.php?service=eccbc87e4b5ce2fe28308fd9f2a7baf3">Declaración de Beneficiarios <span class="icon-right-arrow"></span></a></li>
-                                <li><a href="./service.php?service=a87ff679a2f3e71d9181a67b7542122c">Cálculo de Finiquito <span class="icon-right-arrow"></span></a></li>
-                                <li><a href="./service.php?service=e4da3b7fbbce2345d7772b0674a318d5">Consultores de Recursos Humanos <span class="icon-right-arrow"></span></a></li>
-                                <li><a href="./service.php?service=1679091c5a880faf6fb5e6087eb1b2dc">Recuperación de cuentas Afore <span class="icon-right-arrow"></span></a></li>
-                                <li><a href="./service.php?service=8f14e45fceea167a5a36dedd4bea2543">Reglamento Interno del Trabajador <span class="icon-right-arrow"></span></a></li>
-                            </ul>
-                        </div>
-                        <div class="service-details__need-help">
-                            <div class="service-details__need-help-bg" style="background-image: url(assets/images/backgrounds/service-details-need-help-bg.jpg)">
-                            </div>
-                            <h2 class="service-details__need-help-title">Contacta a nuestros abogados corporativos</h2>
-                            <div class="service-details__need-help-icon">
-                                <span class="icon-phone"></span>
-                            </div>
-                            <div class="service-details__need-help-contact">
-                                <p>Llámenos</p>
-                                <a href="tel:2383905342">238 390 53 42</a>
-                            </div>
-                        </div>
-                    </div>
+<div class="service-details__right">
+    <div class="service-details__img">
+        <img src="assets/images/services/service-details-img-2.jpg" alt="">
+        <div class="service-details__img-icon">
+            <span class="icon-business"></span>
+        </div>
+    </div>
+    <div class="service-details__content">
+        <h3 class="service-details__title"><?php echo $tipo_service ?></h3>
+        <p class="service-details__text-1">
+            Considerando que dicha área es el principal representante del propietario en el inicio, desarrollo y terminación de la relación obrero–patronal.
+        </p>
+        <p class="service-details__text-2">
+            Por lo que en la prestación de nuestros servicios interactuamos permanentemente y buscamos su funcionamiento óptimo para prevención de cualquier desacuerdo laboral, mayormente desfavorecedor para las empresas
+        </p>
+    </div>
+    <ul class="service-details__two-icons list-unstyled">
+        <li class="service-details__two-icon-single">
+            <div class="service-details__two-icon">
+                <span class="icon-group"></span>
+            </div>
+            <p class="service-details__two-icon-content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+        </li>
+        <li class="service-details__two-icon-single">
+            <div class="service-details__two-icon">
+                <span class="icon-consulting"></span>
+            </div>
+            <p class="service-details__two-icon-content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+        </li>
+    </ul>
+    <p class="service-details__text-3">It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum take a look at our round. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+    <div class="service-details__bottom">
+        <div class="service-details__bottom-icon">
+            <span class="icon-report"></span>
+        </div>
+        <p class="service-details__bottom-text">Suspendisse nec urna nec tellus vulputate. At enim trud exercitation dolor ullamco laboris nisut aliquip aute irure dolor in reprehenderit.</p>
+    </div>
+    <div class="service-details__how-we-help">
+        <div class="row">
+            <div class="col-xl-6">
+                <div class="service-details__how-we-help-img">
+                    <img src="assets/images/services/service-details-how-we-help-img.jpg" alt="">
                 </div>
-                <div class="col-xl-8 col-lg-7">
-                    <div class="service-details__right">
-                        <div class="service-details__img">
-                            <img src="assets/images/services/service-details-img-2.jpg" alt="">
-                            <div class="service-details__img-icon">
-                                <span class="icon-business"></span>
+            </div>
+            <div class="col-xl-6">
+                <div class="service-details__how-we-help-content">
+                    <h3 class="service-details__how-we-help-title">How We Help</h3>
+                    <p class="service-details__how-we-help-text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+                    <ul class="service-details__how-we-help-points list-unstyled">
+                        <li>
+                            <div class="icon">
+                                <i class="fa fa-arrow-right"></i>
                             </div>
-                        </div>
-                        <div class="service-details__content">
-                            <h3 class="service-details__title">Asesoría en Juicios por Despido</h3>
-                            <p class="service-details__text-1"></p>
-                            <p class="service-details__text-2"></p>
-                        </div>
-                    </div>
-                </div>';
-
-$titulo = '<h2>Asesoría en Juicios por Despido</h2>
-            <ul class="thm-breadcrumb list-unstyled">
-                <li><a href="./">Inicio</a></li>
-                <li><a href="services.php">Servicios</a></li>
-                <li class="active">Asesoría en Juicios por Despido</li>
-            </ul>';
+                            <div class="text">
+                                <p>In id diam nec nisi congue tincidunt</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                            <div class="text">
+                                <p>Pn malesuada purus a ligula dapibus</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                            <div class="text">
+                                <p>Vestibulum tincidunt arcu vel nisl</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <i class="fa fa-arrow-right"></i>
+                            </div>
+                            <div class="text">
+                                <p>Sed tristique lorem non tesque</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="service-details__faq">
+        <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
+            <div class="accrodion active">
+                <div class="accrodion-title">
+                    <h4>Interdum et malesuada fames ac ante ipsum</h4>
+                </div>
+                <div class="accrodion-content">
+                    <div class="inner">
+                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                    </div><!-- /.inner -->
+                </div>
+            </div>
+            <div class="accrodion">
+                <div class="accrodion-title">
+                    <h4>Maecenas condimentum sollicitudin ligula,</h4>
+                </div>
+                <div class="accrodion-content">
+                    <div class="inner">
+                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                    </div><!-- /.inner -->
+                </div>
+            </div>
+            <div class="accrodion last-chiled">
+                <div class="accrodion-title">
+                    <h4>Duis rhoncus orci ut metus rhoncus</h4>
+                </div>
+                <div class="accrodion-content">
+                    <div class="inner">
+                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                    </div><!-- /.inner -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
