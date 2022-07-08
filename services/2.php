@@ -8,10 +8,8 @@
     <div class="service-details__content">
         <h3 class="service-details__title"><?php echo $tipo_service ?></h3>
         <p class="service-details__text-1">
-            Considerando que dicha área es el principal representante del propietario en el inicio, desarrollo y terminación de la relación obrero–patronal.
-        </p>
-        <p class="service-details__text-2">
-            Por lo que en la prestación de nuestros servicios interactuamos permanentemente y buscamos su funcionamiento óptimo para prevención de cualquier desacuerdo laboral, mayormente desfavorecedor para las empresas
+            La mejor manera de tener toda la información económica de tu negocio organizada para poder tomar decisiones
+            estratégicas es delegar aquello relacionado con la gestión de la empresa en una asesoría empresarial.
         </p>
     </div>
     <ul class="service-details__two-icons list-unstyled">
@@ -19,21 +17,27 @@
             <div class="service-details__two-icon">
                 <span class="icon-group"></span>
             </div>
-            <p class="service-details__two-icon-content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+            <p class="service-details__two-icon-content">Mejora tus canales de comunicación</p>
         </li>
         <li class="service-details__two-icon-single">
             <div class="service-details__two-icon">
                 <span class="icon-consulting"></span>
             </div>
-            <p class="service-details__two-icon-content">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+            <p class="service-details__two-icon-content">Evaluamos tu estructura organizacional</p>
         </li>
     </ul>
-    <p class="service-details__text-3">It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum take a look at our round. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</p>
+    <p class="service-details__text-3">
+        No tendrá que preocuparse más por la gestión de recursos internos y externos de su emprendimiento, ni en
+        trámites, licencias, manejo de personal.
+    </p>
     <div class="service-details__bottom">
         <div class="service-details__bottom-icon">
             <span class="icon-report"></span>
         </div>
-        <p class="service-details__bottom-text">Suspendisse nec urna nec tellus vulputate. At enim trud exercitation dolor ullamco laboris nisut aliquip aute irure dolor in reprehenderit.</p>
+        <p class="service-details__bottom-text">
+            Ponemos a su disposición toda la experiencia profesional en áreas como: <strong> dirección, compras,
+                ventas, marketing y calidad</strong>, para llevar a cabo un correcto proceso administrativo
+        </p>
     </div>
     <div class="service-details__how-we-help">
         <div class="row">
@@ -44,15 +48,14 @@
             </div>
             <div class="col-xl-6">
                 <div class="service-details__how-we-help-content">
-                    <h3 class="service-details__how-we-help-title">How We Help</h3>
-                    <p class="service-details__how-we-help-text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+                    <h3 class="service-details__how-we-help-title">¿Cómo te apoyamos?</h3>
                     <ul class="service-details__how-we-help-points list-unstyled">
                         <li>
                             <div class="icon">
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>In id diam nec nisi congue tincidunt</p>
+                                <p>Planeación</p>
                             </div>
                         </li>
                         <li>
@@ -60,7 +63,7 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>Pn malesuada purus a ligula dapibus</p>
+                                <p>Organización</p>
                             </div>
                         </li>
                         <li>
@@ -68,7 +71,7 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>Vestibulum tincidunt arcu vel nisl</p>
+                                <p>Dirección</p>
                             </div>
                         </li>
                         <li>
@@ -76,7 +79,7 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>Sed tristique lorem non tesque</p>
+                                <p>Control</p>
                             </div>
                         </li>
                     </ul>
@@ -88,31 +91,41 @@
         <div class="accrodion-grp" data-grp-name="faq-one-accrodion">
             <div class="accrodion active">
                 <div class="accrodion-title">
-                    <h4>Interdum et malesuada fames ac ante ipsum</h4>
+                    <h4>Los temas fiscales en manos de un profesional</h4>
                 </div>
                 <div class="accrodion-content">
                     <div class="inner">
-                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                        <p>
+                            Un asesor experto también orientará a la empresa sobre los mejores procedimientos o las
+                            estrategias más beneficiosas a nivel fiscal.
+                        </p>
                     </div><!-- /.inner -->
                 </div>
             </div>
             <div class="accrodion">
                 <div class="accrodion-title">
-                    <h4>Maecenas condimentum sollicitudin ligula,</h4>
+                    <h4>Contratar los servicios que más se adapten a tu negocio</h4>
                 </div>
                 <div class="accrodion-content">
                     <div class="inner">
-                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                        <p>
+                            Además de gestorías especializadas en determinado tipo de negocios. Por lo que es posible
+                            contratar aquellos servicios que más se ajustan a las necesidades de tu empresa.
+                            Consiguiendo una asesoría empresarial personalizada y adaptada a tu volumen de negocio.
+                        </p>
                     </div><!-- /.inner -->
                 </div>
             </div>
             <div class="accrodion last-chiled">
                 <div class="accrodion-title">
-                    <h4>Duis rhoncus orci ut metus rhoncus</h4>
+                    <h4>Mejor respaldo en la toma de decisiones</h4>
                 </div>
                 <div class="accrodion-content">
                     <div class="inner">
-                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                        <p>
+                            Esto da mucha tranquilidad en cada una de tus decisiones, sabiendo que están respaldadas
+                            por verdaderos profesionales del sector que conocen a fondo el plano laboral.
+                        </p>
                     </div><!-- /.inner -->
                 </div>
             </div>

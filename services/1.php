@@ -105,21 +105,27 @@
             </div>
             <div class="accrodion">
                 <div class="accrodion-title">
-                    <h4>Maecenas condimentum sollicitudin ligula,</h4>
+                    <h4> Un ambiente laboral agradable incrementa la motivación</h4>
                 </div>
                 <div class="accrodion-content">
                     <div class="inner">
-                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                        <p>
+                            Ayuda a conseguir los retos empresariales gracias a una buena comunicación y alineación de
+                            los equipos en una misma dirección para lograr metas compartidas.
+                        </p>
                     </div><!-- /.inner -->
                 </div>
             </div>
             <div class="accrodion last-chiled">
                 <div class="accrodion-title">
-                    <h4>Duis rhoncus orci ut metus rhoncus</h4>
+                    <h4>apacitación y asesoría al departamento de recursos humanos</h4>
                 </div>
                 <div class="accrodion-content">
                     <div class="inner">
-                        <p>Suspendisse finibus urna mauris, vitae consequat quam vel. Vestibulum leo ligula, vit commodo nisl Sed luctus venenatis pellentesque.</p>
+                        <p>
+                            Nos convertimos en su socio de negocio. Te ayudamos a incrementar el desempeño de las
+                            personas y la productividad de su empresa.
+                        </p>
                     </div><!-- /.inner -->
                 </div>
             </div>

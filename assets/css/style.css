@@ -46,3 +46,7 @@
     font-weight: 700;
     color: var(--verde2) !important;
 }
+
+.feature-one__hover:before {
+    background-color: rgba(var(--conult-black-rgb), 1) !important;
+}
