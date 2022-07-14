@@ -81,7 +81,7 @@
                                 <i class="fa fa-arrow-right"></i>
                             </div>
                             <div class="text">
-                                <p>Sed tristique lorem non tesque</p>
+                                <p>Capacitación y asesoria al departamento de Recursos Humanos</p>
                             </div>
                         </li>
                     </ul>
